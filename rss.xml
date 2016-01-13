@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Holt Adventures]]></title>
         <description><![CDATA[Holt Adventures]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/holt-adventures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 00:43:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 01:29:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/holt-adventures/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e692308a-0ee1-409a-a3dd-acf18765010d.jpg">]]></description>
-            <link>undefined14e8fad5-d2eb-4ede-86e5-aa88ff890b9d/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e692308a-0ee1-409a-a3dd-acf18765010d.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/holt-adventures/14e8fad5-d2eb-4ede-86e5-aa88ff890b9d/index.html</link>
             <guid isPermaLink="false">14e8fad5-d2eb-4ede-86e5-aa88ff890b9d</guid>
-            <pubDate>Wed, 13 Jan 2016 00:43:15 GMT</pubDate>
+            <pubDate>Wed, 13 Jan 2016 01:29:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
