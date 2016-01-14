@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Holt Adventures]]></title>
+        <description><![CDATA[Holt Adventures]]></description>
+        <link>https://thegrid.ai/holt-adventures/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jan 2016 20:43:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/holt-adventures/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://holtadventures.com/wp-content/Gallery/Laos/DSC_0043.JPG">]]></description>
+            <link>https://thegrid.ai/holt-adventures/724206b3-467b-4ddb-940e-023ff7ceb0b0/index.html</link>
+            <guid isPermaLink="false">724206b3-467b-4ddb-940e-023ff7ceb0b0</guid>
+            <pubDate>Thu, 14 Jan 2016 20:43:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://holtadventures.com/wp-content/Gallery/Laos/DSC_0076.JPG">]]></description>
+            <link>https://thegrid.ai/holt-adventures/ee9e2198-bd81-440d-860a-1342beada4c4/index.html</link>
+            <guid isPermaLink="false">ee9e2198-bd81-440d-860a-1342beada4c4</guid>
+            <pubDate>Thu, 14 Jan 2016 20:43:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
