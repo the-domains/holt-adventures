@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[Holt Adventures]]></title>
         <description><![CDATA[Holt Adventures]]></description>
-        <link>https://thegrid.ai/holt-adventures/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
         <lastBuildDate>Thu, 14 Jan 2016 20:43:41 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/holt-adventures/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://holtadventures.com/wp-content/Gallery/Laos/DSC_0043.JPG">]]></description>
-            <link>https://thegrid.ai/holt-adventures/724206b3-467b-4ddb-940e-023ff7ceb0b0/index.html</link>
-            <guid isPermaLink="false">724206b3-467b-4ddb-940e-023ff7ceb0b0</guid>
-            <pubDate>Thu, 14 Jan 2016 20:43:40 GMT</pubDate>
-        </item>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://holtadventures.com/wp-content/Gallery/Laos/DSC_0076.JPG">]]></description>
-            <link>https://thegrid.ai/holt-adventures/ee9e2198-bd81-440d-860a-1342beada4c4/index.html</link>
+            <link>undefinedee9e2198-bd81-440d-860a-1342beada4c4/index.html</link>
             <guid isPermaLink="false">ee9e2198-bd81-440d-860a-1342beada4c4</guid>
             <pubDate>Thu, 14 Jan 2016 20:43:40 GMT</pubDate>
         </item>
